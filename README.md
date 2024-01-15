@@ -2,7 +2,7 @@
 
 This repo contains the python scripts to analyze two different data sets leveraging the concepts learnt in Module 3 - Python.
 
-/*PyBank:*/
+# PyBank:
 
 This challenge requires the python script to be able to analyze the budget data and provide the financial analysis on the dataset.
 
@@ -16,7 +16,7 @@ Below are all the tasks performed in the main.py script under PyBank:
 6. The greatest decrease in profits (date and amount) over the entire period
 7. Prints the results to both terminal and ouput file under PyBank/analysis folder
 
-/*PyPoll: */
+# PyPoll: 
 
 This challenge requires the python script to be able to analyze the election data and provide the election results based on the given dataset.
 

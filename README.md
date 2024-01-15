@@ -29,3 +29,7 @@ Below are all the tasks performed by the main.py script under PyPoll
 5. The total number of votes each candidate won
 6. The winner of the election based on popular vote
 7. Prints the results to both terminal and ouput file under PyPoll/analysis folder
+
+# References:
+
+1. Refered to syntax and usages in our activitiy modules on dictionaries, file read and writes
